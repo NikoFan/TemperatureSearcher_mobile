@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">НеПогода</string>
+    <string name="title_activity_home_page_view">HomePageView</string>
+    <string name="size_of_title_text">40</string>
+    <string name="size_of_card_title_text">30</string>
+    <string name="size_of_card_body_text">22</string>
+</resources>
